@@ -12,7 +12,7 @@ cd Function-Output-Calculator
 Then, to run the program, type this into your terminal:
 
 ```
-./carrental
+./funcOutCalc
 ```
 Or alternatively you can build the C++ project with `g++`, `clang++`, or with any other C++ project builder.
 
