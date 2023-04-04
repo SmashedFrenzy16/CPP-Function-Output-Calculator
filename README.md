@@ -18,4 +18,6 @@ Or alternatively you can build the C++ project with `g++`, `clang++`, or with an
 
 ## How To Change Formula
 
+Replace the formula on line 10 of `funcOutCalc.cpp` with a formula of your choice.
+
 Enjoy!
